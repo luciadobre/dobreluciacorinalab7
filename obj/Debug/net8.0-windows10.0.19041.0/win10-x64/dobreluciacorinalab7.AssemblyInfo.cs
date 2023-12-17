@@ -18,7 +18,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("dobreluciacorinalab7")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0+f9af4b23c63f3e1dc094f4f98a78e41df198a4fa")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0+37c5d86191c4262f37abe98666d66c5bd43b9aeb")]
 [assembly: System.Reflection.AssemblyProductAttribute("dobreluciacorinalab7")]
 [assembly: System.Reflection.AssemblyTitleAttribute("dobreluciacorinalab7")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
