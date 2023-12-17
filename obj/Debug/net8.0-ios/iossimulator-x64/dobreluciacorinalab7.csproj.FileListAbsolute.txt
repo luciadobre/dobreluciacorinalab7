@@ -319,3 +319,5 @@ C:\Users\lcdob\Documents\GitHub\dobreluciacorinalab7\dobreluciacorinalab7\obj\De
 C:\Users\lcdob\Documents\GitHub\dobreluciacorinalab7\dobreluciacorinalab7\obj\Debug\net8.0-ios\iossimulator-x64\resizetizer\sp\splash_58C11A0A2CDF3C43117FC29EECA319E6FBFEFE150B9123BB20E86A467F499449.png
 C:\Users\lcdob\Documents\GitHub\dobreluciacorinalab7\dobreluciacorinalab7\obj\Debug\net8.0-ios\iossimulator-x64\resizetizer\sp\splash_58C11A0A2CDF3C43117FC29EECA319E6FBFEFE150B9123BB20E86A467F499449@2x.png
 C:\Users\lcdob\Documents\GitHub\dobreluciacorinalab7\dobreluciacorinalab7\obj\Debug\net8.0-ios\iossimulator-x64\resizetizer\sp\splash_58C11A0A2CDF3C43117FC29EECA319E6FBFEFE150B9123BB20E86A467F499449@3x.png
+C:\Users\lcdob\Documents\GitHub\dobreluciacorinalab7\dobreluciacorinalab7\bin\Debug\net8.0-ios\iossimulator-x64\Newtonsoft.Json.dll
+C:\Users\lcdob\Documents\GitHub\dobreluciacorinalab7\dobreluciacorinalab7\bin\Debug\net8.0-ios\iossimulator-x64\SQLiteNetExtensions.dll
