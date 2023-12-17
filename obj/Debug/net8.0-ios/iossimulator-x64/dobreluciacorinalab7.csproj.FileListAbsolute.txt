@@ -309,3 +309,13 @@ C:\Users\lcdob\Documents\GitHub\dobreluciacorinalab7\dobreluciacorinalab7\obj\De
 C:\Users\lcdob\Documents\GitHub\dobreluciacorinalab7\dobreluciacorinalab7\obj\Debug\net8.0-ios\iossimulator-x64\dobreluciacorinalab7.pdb
 C:\Users\lcdob\Documents\GitHub\dobreluciacorinalab7\dobreluciacorinalab7\obj\Debug\net8.0-ios\iossimulator-x64\dobreluciacorinalab7.genruntimeconfig.cache
 C:\Users\lcdob\Documents\GitHub\dobreluciacorinalab7\dobreluciacorinalab7\obj\Debug\net8.0-ios\iossimulator-x64\ref\dobreluciacorinalab7.dll
+C:\Users\lcdob\Documents\GitHub\dobreluciacorinalab7\dobreluciacorinalab7\bin\Debug\net8.0-ios\iossimulator-x64\SQLite-net.dll
+C:\Users\lcdob\Documents\GitHub\dobreluciacorinalab7\dobreluciacorinalab7\bin\Debug\net8.0-ios\iossimulator-x64\SQLitePCLRaw.batteries_v2.dll
+C:\Users\lcdob\Documents\GitHub\dobreluciacorinalab7\dobreluciacorinalab7\bin\Debug\net8.0-ios\iossimulator-x64\SQLitePCLRaw.nativelibrary.dll
+C:\Users\lcdob\Documents\GitHub\dobreluciacorinalab7\dobreluciacorinalab7\bin\Debug\net8.0-ios\iossimulator-x64\SQLitePCLRaw.core.dll
+C:\Users\lcdob\Documents\GitHub\dobreluciacorinalab7\dobreluciacorinalab7\bin\Debug\net8.0-ios\iossimulator-x64\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\lcdob\Documents\GitHub\dobreluciacorinalab7\dobreluciacorinalab7\obj\Debug\net8.0-ios\iossimulator-x64\resizetizer\sp\MauiInfo.plist
+C:\Users\lcdob\Documents\GitHub\dobreluciacorinalab7\dobreluciacorinalab7\obj\Debug\net8.0-ios\iossimulator-x64\resizetizer\sp\MauiSplash.storyboard
+C:\Users\lcdob\Documents\GitHub\dobreluciacorinalab7\dobreluciacorinalab7\obj\Debug\net8.0-ios\iossimulator-x64\resizetizer\sp\splash_58C11A0A2CDF3C43117FC29EECA319E6FBFEFE150B9123BB20E86A467F499449.png
+C:\Users\lcdob\Documents\GitHub\dobreluciacorinalab7\dobreluciacorinalab7\obj\Debug\net8.0-ios\iossimulator-x64\resizetizer\sp\splash_58C11A0A2CDF3C43117FC29EECA319E6FBFEFE150B9123BB20E86A467F499449@2x.png
+C:\Users\lcdob\Documents\GitHub\dobreluciacorinalab7\dobreluciacorinalab7\obj\Debug\net8.0-ios\iossimulator-x64\resizetizer\sp\splash_58C11A0A2CDF3C43117FC29EECA319E6FBFEFE150B9123BB20E86A467F499449@3x.png
